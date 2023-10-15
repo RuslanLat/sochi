@@ -1,8 +1,15 @@
 # [Цифровой прорыв 2023, Сочи](https://hacks-ai.ru/hackathons.html?eventId=969082) 
 
+
 ## Задача "ML для оценки параметров экономических моделей"
 
 
+* [ноутбук с анализом данных](eda.ipynb)
+* [ноутбук с обучением модели](sochi-transformer.ipynb)
+* [ноутбук с предсказанием](predict.ipynb)
+
+
+[Презентация](presentation.pptx)
 
 
 ## Команда "DS_KRD"
